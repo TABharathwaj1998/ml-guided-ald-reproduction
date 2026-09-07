@@ -6,6 +6,8 @@ layer deposition process" (DOI 10.1038/s43246-026-01206-w): a 4-input,
 etch rate from ALD process parameters.
 
 See **`report.md`** for findings and **`daily_log.md`** for the day-by-day log.
+**`LEARNING.md`** is a from-scratch guide to the data-science background and the
+project; **`GUIDE.md`** is how to run and test the code.
 
 ## Layout
 
